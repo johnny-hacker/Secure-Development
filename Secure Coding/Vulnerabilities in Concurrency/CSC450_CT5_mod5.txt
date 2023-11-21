@@ -1,0 +1,18 @@
+Please be sure to append your data to this text file.
+
+If these first three lines are deleted, then your program is not functioning as expected.
+
+
+
+
+Original User Input:JOHNNY OLMEDO
+
+Reverse User Input:ODEMLO YNNHOJ
+
+Original User Input:29 DEC 2022
+
+Reverse User Input:2202 CED 92
+
+Original User Input:
+
+Original User Input:Reverse Hello World
